@@ -12,6 +12,12 @@ int main() {
         "0.txt",
         "1.txt",
         "2.txt",
+        "size_80.txt",
+        "size_60.txt",
+        "size_50.txt",
+        "size_40.txt",
+        "size_30.txt",
+
     };
 
     for (const string& img : images) {
